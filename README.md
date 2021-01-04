@@ -25,3 +25,5 @@ Download in CSV file with STATA and all variables
 
 ## Clean Data
 The survey data clean program and census data vlean program can be found in Script, which are named *clean_survey.R* and *gss_cleaning.R*
+
+The original *gss_cleaning.R* is provided by Authors: Rohan Alexander and Sam Caetano (Contact: rohan.alexander@utoronto.ca)
