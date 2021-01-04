@@ -1,0 +1,196 @@
+province,bachelor,bornin_canada,have_children,male,age_under_30,n
+Alberta,0,0,0,0,0,20
+Alberta,0,0,0,0,1,17
+Alberta,0,0,0,1,0,22
+Alberta,0,0,1,0,0,89
+Alberta,0,0,1,1,0,59
+Alberta,0,1,0,0,0,79
+Alberta,0,1,0,0,1,54
+Alberta,0,1,0,1,0,100
+Alberta,0,1,0,1,1,72
+Alberta,0,1,1,0,0,345
+Alberta,0,1,1,0,1,24
+Alberta,0,1,1,1,0,287
+Alberta,0,1,1,1,1,15
+Alberta,1,0,0,0,0,15
+Alberta,1,0,0,0,1,12
+Alberta,1,0,0,1,0,15
+Alberta,1,0,1,0,0,51
+Alberta,1,0,1,1,0,47
+Alberta,1,1,0,0,0,39
+Alberta,1,1,0,0,1,19
+Alberta,1,1,0,1,0,30
+Alberta,1,1,0,1,1,24
+Alberta,1,1,1,0,0,107
+Alberta,1,1,1,1,0,91
+British Columbia,0,0,0,0,0,35
+British Columbia,0,0,0,0,1,25
+British Columbia,0,0,0,1,0,43
+British Columbia,0,0,0,1,1,35
+British Columbia,0,0,1,0,0,171
+British Columbia,0,0,1,1,0,133
+British Columbia,0,1,0,0,0,94
+British Columbia,0,1,0,0,1,52
+British Columbia,0,1,0,1,0,125
+British Columbia,0,1,0,1,1,70
+British Columbia,0,1,1,0,0,474
+British Columbia,0,1,1,0,1,20
+British Columbia,0,1,1,1,0,365
+British Columbia,1,0,0,0,0,37
+British Columbia,1,0,0,0,1,16
+British Columbia,1,0,0,1,0,16
+British Columbia,1,0,0,1,1,19
+British Columbia,1,0,1,0,0,98
+British Columbia,1,0,1,1,0,93
+British Columbia,1,1,0,0,0,86
+British Columbia,1,1,0,0,1,23
+British Columbia,1,1,0,1,0,64
+British Columbia,1,1,0,1,1,18
+British Columbia,1,1,1,0,0,165
+British Columbia,1,1,1,1,0,127
+Manitoba,0,0,0,0,1,12
+Manitoba,0,0,0,1,0,11
+Manitoba,0,0,0,1,1,10
+Manitoba,0,0,1,0,0,47
+Manitoba,0,0,1,1,0,49
+Manitoba,0,1,0,0,0,47
+Manitoba,0,1,0,0,1,28
+Manitoba,0,1,0,1,0,69
+Manitoba,0,1,0,1,1,36
+Manitoba,0,1,1,0,0,296
+Manitoba,0,1,1,0,1,19
+Manitoba,0,1,1,1,0,235
+Manitoba,1,0,1,0,0,18
+Manitoba,1,0,1,1,0,21
+Manitoba,1,1,0,0,0,34
+Manitoba,1,1,0,0,1,13
+Manitoba,1,1,0,1,0,18
+Manitoba,1,1,0,1,1,11
+Manitoba,1,1,1,0,0,69
+Manitoba,1,1,1,1,0,60
+New Brunswick,0,0,1,0,0,23
+New Brunswick,0,0,1,1,0,12
+New Brunswick,0,1,0,0,0,65
+New Brunswick,0,1,0,0,1,35
+New Brunswick,0,1,0,1,0,75
+New Brunswick,0,1,0,1,1,29
+New Brunswick,0,1,1,0,0,411
+New Brunswick,0,1,1,0,1,20
+New Brunswick,0,1,1,1,0,292
+New Brunswick,0,1,1,1,1,11
+New Brunswick,1,0,1,1,0,11
+New Brunswick,1,1,0,0,0,42
+New Brunswick,1,1,0,0,1,13
+New Brunswick,1,1,0,1,0,23
+New Brunswick,1,1,1,0,0,89
+New Brunswick,1,1,1,1,0,83
+Newfoundland and Labrador,0,1,0,0,0,39
+Newfoundland and Labrador,0,1,0,0,1,30
+Newfoundland and Labrador,0,1,0,1,0,62
+Newfoundland and Labrador,0,1,0,1,1,29
+Newfoundland and Labrador,0,1,1,0,0,353
+Newfoundland and Labrador,0,1,1,0,1,17
+Newfoundland and Labrador,0,1,1,1,0,260
+Newfoundland and Labrador,1,1,0,0,0,23
+Newfoundland and Labrador,1,1,0,0,1,21
+Newfoundland and Labrador,1,1,0,1,0,15
+Newfoundland and Labrador,1,1,0,1,1,14
+Newfoundland and Labrador,1,1,1,0,0,85
+Newfoundland and Labrador,1,1,1,1,0,50
+Nova Scotia,0,0,1,0,0,17
+Nova Scotia,0,0,1,1,0,21
+Nova Scotia,0,1,0,0,0,82
+Nova Scotia,0,1,0,0,1,33
+Nova Scotia,0,1,0,1,0,70
+Nova Scotia,0,1,0,1,1,47
+Nova Scotia,0,1,1,0,0,378
+Nova Scotia,0,1,1,0,1,20
+Nova Scotia,0,1,1,1,0,302
+Nova Scotia,1,0,1,0,0,16
+Nova Scotia,1,0,1,1,0,21
+Nova Scotia,1,1,0,0,0,45
+Nova Scotia,1,1,0,0,1,13
+Nova Scotia,1,1,0,1,0,32
+Nova Scotia,1,1,0,1,1,14
+Nova Scotia,1,1,1,0,0,113
+Nova Scotia,1,1,1,1,0,98
+Ontario,0,0,0,0,0,67
+Ontario,0,0,0,0,1,40
+Ontario,0,0,0,1,0,68
+Ontario,0,0,0,1,1,51
+Ontario,0,0,1,0,0,466
+Ontario,0,0,1,0,1,21
+Ontario,0,0,1,1,0,276
+Ontario,0,1,0,0,0,182
+Ontario,0,1,0,0,1,140
+Ontario,0,1,0,1,0,274
+Ontario,0,1,0,1,1,159
+Ontario,0,1,1,0,0,995
+Ontario,0,1,1,0,1,37
+Ontario,0,1,1,1,0,732
+Ontario,0,1,1,1,1,23
+Ontario,1,0,0,0,0,81
+Ontario,1,0,0,0,1,43
+Ontario,1,0,0,1,0,75
+Ontario,1,0,0,1,1,37
+Ontario,1,0,1,0,0,247
+Ontario,1,0,1,1,0,237
+Ontario,1,1,0,0,0,168
+Ontario,1,1,0,0,1,77
+Ontario,1,1,0,1,0,125
+Ontario,1,1,0,1,1,58
+Ontario,1,1,1,0,0,375
+Ontario,1,1,1,0,1,16
+Ontario,1,1,1,1,0,282
+Prince Edward Island,0,1,0,0,0,38
+Prince Edward Island,0,1,0,0,1,20
+Prince Edward Island,0,1,0,1,0,29
+Prince Edward Island,0,1,0,1,1,35
+Prince Edward Island,0,1,1,0,0,234
+Prince Edward Island,0,1,1,1,0,135
+Prince Edward Island,1,1,0,0,0,16
+Prince Edward Island,1,1,0,1,0,11
+Prince Edward Island,1,1,1,0,0,52
+Prince Edward Island,1,1,1,1,0,37
+Quebec,0,0,0,0,0,26
+Quebec,0,0,0,0,1,27
+Quebec,0,0,0,1,0,30
+Quebec,0,0,0,1,1,24
+Quebec,0,0,1,0,0,103
+Quebec,0,0,1,1,0,78
+Quebec,0,1,0,0,0,184
+Quebec,0,1,0,0,1,102
+Quebec,0,1,0,1,0,218
+Quebec,0,1,0,1,1,133
+Quebec,0,1,1,0,0,1005
+Quebec,0,1,1,0,1,43
+Quebec,0,1,1,1,0,717
+Quebec,0,1,1,1,1,27
+Quebec,1,0,0,0,0,23
+Quebec,1,0,0,1,0,34
+Quebec,1,0,0,1,1,14
+Quebec,1,0,1,0,0,65
+Quebec,1,0,1,1,0,85
+Quebec,1,1,0,0,0,95
+Quebec,1,1,0,0,1,45
+Quebec,1,1,0,1,0,75
+Quebec,1,1,0,1,1,23
+Quebec,1,1,1,0,0,255
+Quebec,1,1,1,1,0,207
+Saskatchewan,0,0,1,0,0,36
+Saskatchewan,0,0,1,1,0,24
+Saskatchewan,0,1,0,0,0,38
+Saskatchewan,0,1,0,0,1,31
+Saskatchewan,0,1,0,1,0,51
+Saskatchewan,0,1,0,1,1,47
+Saskatchewan,0,1,1,0,0,303
+Saskatchewan,0,1,1,0,1,23
+Saskatchewan,0,1,1,1,0,264
+Saskatchewan,0,1,1,1,1,20
+Saskatchewan,1,0,1,0,0,11
+Saskatchewan,1,0,1,1,0,18
+Saskatchewan,1,1,0,0,0,23
+Saskatchewan,1,1,0,0,1,11
+Saskatchewan,1,1,0,1,0,18
+Saskatchewan,1,1,1,0,0,60
+Saskatchewan,1,1,1,1,0,49
